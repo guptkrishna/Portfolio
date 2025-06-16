@@ -77,6 +77,12 @@ const projects = [
       tags: ["ASP .Net Core MVC","MSSQL","HTML", "CSS", "BOOTSTRAP", "JAVASCRIPT"],
       description: "Central Water Commission is a premier Technical Organization of India in the field of Water Resources and is presently functioning as an attached office of the Ministry of Jal Shakti",
       liveUrl: "https://cdrc.cwc.gov.in/"
+    },
+    {
+      title: "Netoyed",
+      tags: ["ASP.Net Core Web API","MYSQL"],
+      description: "Netoyed is a professional IT services website showcasing the company’s digital solutions, web development, and software services.",
+      liveUrl: "https://netoyed.com/"
     }
     // Add more objects
   ];
